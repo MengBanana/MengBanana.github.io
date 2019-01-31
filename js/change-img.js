@@ -1,3 +1,5 @@
+"use strict";
+
 function main() {
 
 	var imgs = ['me', 'me2', 'icon'];

@@ -20,6 +20,9 @@ basic web technics and apply the knowledge to a real life project. Also lay the 
 ## Link To MyHomePage
 [Author: Xinmeng Zhang](https://mengbanana.github.io/)
 
+## Reference
+[CS 5610 Web Development](http://johnguerra.co/classes/webDevelopment_spring_2019/)
+
 ## Demo
 ![Demo of MyHomePage](https://github.com/MengBanana/MengBanana.github.io/blob/master/demo.gif)
 
